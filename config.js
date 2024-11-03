@@ -20,7 +20,7 @@ for (let i = 0; i < ownerlist.length; i++) {
 }
 //
 global.botname = process.env.BOTNAME || 'ULTRA-MD';
-global.botNumber = '2250500988391' //replace your bot number here
+global.botNumber = '2250501727398' //replace your bot number here
 
 global.mods = []
 global.prems = []
